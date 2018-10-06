@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Travels through the Interior Parts of North America, in the Years 1766, 1767
   and 1768
 url: http://www.gutenberg.org/ebooks/49753
